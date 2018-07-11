@@ -1,4 +1,6 @@
-# Worldsensing PyLadies meetup
+# Data science for smarter cities
+PyLadiesBCN June meetup at Worldsensing
+
 ## Summary
 This repository contains code from the PyLadies meetup session hosted at Worldsensing HQ in Barcelona on the 14/06/2018.
 
